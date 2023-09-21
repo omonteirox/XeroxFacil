@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/xeroxFacil/Controllers/XeroxController.cs
+/.vs
+/xeroxFacil/obj
+*.json
+/xeroxFacil.Test/obj
+/xeroxFacil.Test/bin/Debug/net7.0
+/xeroxFacil/bin/Debug/net7.0
